@@ -887,7 +887,7 @@ local Tab = Window:NewTab("estafar") local Section = Tab:NewSection("estafa gent
 
 Section:NewButton("Fake Drop", "presiona esto para votar el objeto falso", function()
 
-    local plr = game.Players.LocalPlayer
+local plr = game.Players.LocalPlayer
 
 local chr = plr.Character
 
