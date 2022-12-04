@@ -286,5 +286,3 @@ local chr = plr.Character
 chr.Head:Destroy()
 
 end) 
-
-local Section = Tab:NewSection("Creado por franklintrcb#7729") end)
